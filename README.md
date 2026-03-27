@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am currently pursuing Masters in Big Data Analytics from Ramkrishna Mission Vivekananda Educational and Research Institute, Belur Math, West Bengal.<br>My interests are Statistics, Machine Learning and Deep learning.<br>Not an expert on anything, Just a learner trying to make my life meaningful. 
+I am currently working as Data Scientist at CMInDS IIT Bomabay. I have done Masters in Big Data Analytics from Ramkrishna Mission Vivekananda Educational and Research Institute, Belur Math, West Bengal.<br>My interests are Statistics, Machine Learning and Deep learning.<br>Not an expert on anything, Just a learner trying to make my life meaningful. 
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SamSri72) 
+[LinkedIn](https://linkedin.com/in/sameersri72) 
 
 
 # 💻 Tech Stack:
